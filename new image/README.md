@@ -1,6 +1,6 @@
 | No. | Class | Name | Source |
 |---|---|---|---|
-| 1. | 20  | Jayakirana  | https://www.facebook.com/photo/?fbid=183970491644001&set=arum-dalu |
+| 1. | 20  | Jayakirana  | [Link](https://www.facebook.com/photo/?fbid=183970491644001&set=arum-dalu) |
 | 2. | 22  | Sekar Tanjung  | https://www.anerdgallery.com/blog/2021/03/10/fitri-hafifah-batik-nitik-wundri/ |
 | 3. | 27  | Kawung Nitik  | https://www.facebook.com/photo/?fbid=183970498310667&set=arum-dalu |
 | 4. | 28  | Sekar Kentang  | https://www.anerdgallery.com/blog/2021/03/10/fitri-hafifah-batik-nitik-wundri/ |
